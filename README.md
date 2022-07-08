@@ -13,5 +13,7 @@ A template for pages can be found in the repository under the name PageTemplate.
 ## TODO:
 
 - [x] Make website
+- [ ] Finish about page.
 - [ ] Add lots of content
 - [ ] Find a way to automatically update site from README.md that are updated in other repositories.
+- 
