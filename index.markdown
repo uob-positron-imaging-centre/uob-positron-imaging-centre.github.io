@@ -15,6 +15,5 @@ Home of Positron Emission Particle Tracking (PEPT) and granular simulation.
 
 ![PICI Logo](/assets/images/pici.png)
 
-The research conducted within this group focuses around positron imaging and moving forward numerical simulation.
-
+The research conducted within this group focuses around positron imaging and moving forward numerical simulation. The centre's work with PEPT is documented on the [University's Research site](https://www.birmingham.ac.uk/research/activity/physics/particle-nuclear/positron-imaging-centre/index.aspx).
 
