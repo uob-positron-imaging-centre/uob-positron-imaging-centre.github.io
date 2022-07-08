@@ -24,8 +24,8 @@ description: The Positron Imaging Centre is home to the technique of Positron Im
   invented here, at Birmingham as well as research into granular material simulation.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://uob-positron-imaging-centre.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username:
+github_username:
 
 # Build settings
 theme: "just-the-docs"
