@@ -10,3 +10,9 @@ A template for pages can be found in the repository under the name PageTemplate.
 
 
 [This is a good markdown formatting guide]( https://www.markdownguide.org/basic-syntax/).
+
+## TODO:
+
+- [x] Make website
+- [ ] Add lots of content
+- [ ] Find a way to automatically update site from README.md that are updated in other repositories.
