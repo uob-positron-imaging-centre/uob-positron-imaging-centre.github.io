@@ -54,7 +54,7 @@ If you don't have a computer running Ubuntu I would recommend using a VM softwar
         cd python
         sudo cp liggghts.py /usr/local/lib/python3.8/dist-packages/
 
-12. Add /usr/local/lib to library path. In the .bashrc file.
+12. Add /usr/local/lib to library path in the .bashrc file.
 
         nano ~/.bashrc
         LD_LIBRARY_PATH=/usr/local/lib:$LD_LIBRARY_PATH
