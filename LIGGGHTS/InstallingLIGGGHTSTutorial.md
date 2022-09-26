@@ -56,25 +56,25 @@ If you don't have a computer running Ubuntu I would recommend using a VM softwar
 
 12. Add /usr/local/lib to library path.
 
-         LD_LIBRARY_PATH=/usr/local/lib:$LD_LIBRARY_PATH
+        LD_LIBRARY_PATH=/usr/local/lib:$LD_LIBRARY_PATH
 
 13. A simple Python interface of _PICI-LIGGGHTS_ should now be able to be run from Python. It is a good idea to test at this point if it works.
     1. Optional: Test _PICI-LIGGGHTS_ works in Python: Install idle (Or your text editor/IDE of choice)
              
-            sudo apt install idle
+           sudo apt install idle
 
     2. Run idle
 
-            idle
+           idle
 
     3. Type Python lines to import _PICI-LIGGGHTS_ and start liggghts object.
     
-            from liggghts import liggghts
-            liggghts()
+           from liggghts import liggghts
+           liggghts()
         
 14. To use the high level Python interface we need to install the Python package _CoExSiST_. To do this we need the Python package manager pip.
     
-         sudo apt install pip
+        sudo apt install pip
 
 15. Install _CoExSiST_ Python package.
 
