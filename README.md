@@ -13,7 +13,7 @@ etc. and sending to BDJ746@student.bham.ac.uk and I will add the resource to the
 If you have experience with GitHub and the markdown format you can contribute by simply making a pull request for a new post or page using the markdown format. 
 A template for pages can be found in the repository under the name PageTemplate.md.
 
-[This is a good markdown formatting guide]( https://www.markdownguide.org/basic-syntax/).
+[This is a good markdown formatting guide](https://www.markdownguide.org/basic-syntax/).
 
 ## TODO:
 
