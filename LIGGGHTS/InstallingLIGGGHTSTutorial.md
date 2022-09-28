@@ -40,7 +40,7 @@ If you don't have a computer running Ubuntu I would recommend using a VM softwar
 
        cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_CXX_FLAGS="-O3 -march=native -fPIC" ../src/
 
-9. Once CMake is finished, run the 'make' command to start building _PICI-LIGGGHTS_. (This make take some time)
+9. Once CMake is finished, run the 'make' command to start building _PICI-LIGGGHTS_. (This may take some time)
 
        make -j4
 
