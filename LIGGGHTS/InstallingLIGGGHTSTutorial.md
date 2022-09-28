@@ -12,6 +12,8 @@ A step-by-step guide with video, instructions and commands for installing _PICI-
 **Note**: This doesn't work on Ubuntu 22.04 so make sure to use **Ubuntu 20.04**. 
 If you don't have a computer running Ubuntu I would recommend using a VM software such as VirtualBox to set up an Ubuntu VM.
 
+<iframe width="420" height="315" src="https://youtu.be/Js2uuhNozwQ" frameborder="0" allowfullscreen></iframe>
+
 1. Firstly, download a clone of the _PICI-LIGGGHTS_ zip from GitHub found [here](https://github.com/uob-positron-imaging-centre/PICI-LIGGGHTS){:target="_blank"}.
 
 2. Extract the zip file and move to your location of choice.
