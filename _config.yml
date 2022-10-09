@@ -41,6 +41,10 @@ aux_links:
   "UoB PIC GitHub":
     - https://github.com/uob-positron-imaging-centre
 
+nav_external_links:
+  - title: up4
+    url: https://uob-positron-imaging-centre.github.io/up4/
+    hide_icon: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
