@@ -59,5 +59,6 @@ There are many versions of HDMR sensitivity analysis but the one used by SALib i
 this [paper](https://pubs.acs.org/doi/pdf/10.1021/jp9096919). SALib also implements many other sensitivity analysis
 methods if you are interested in trying them out.
 
-This [paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.140.7406&rep=rep1&type=pdf) is also an interesting read a good source for HDMR. It covers the cut-HDMR and RS-HDMR methods concepts and 
-alos provides some applications of where they are used.
+This [paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.140.7406&rep=rep1&type=pdf) is also an interesting 
+read and a good source for HDMR sensitivity analysis. It covers the cut-HDMR and RS-HDMR methods and 
+also covers some applications of where they are used.
