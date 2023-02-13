@@ -32,6 +32,8 @@ more thorough introduction to PCA and is a highly recommended read.
 To implement PCA in Python, you can use the decomposition library from scikit-learn. There are many articles online that
 provide a guide on how to do this but [this article](https://www.jcchouinard.com/pca-with-python/) is the one I used.
 
+Add Dan Weston article
+
 **Using PCA for sensitivity analysis in DEM simulations:**
 
 PCA can be used on a sensitivity matrix developed from the derivatives of Newton's second law of motion to identify the 
@@ -56,3 +58,6 @@ how to set up a HDMR sensitivity problem and how to input your data.
 There are many versions of HDMR sensitivity analysis but the one used by SALib is the RS-HDMR method that is detailed in
 this [paper](https://pubs.acs.org/doi/pdf/10.1021/jp9096919). SALib also implements many other sensitivity analysis
 methods if you are interested in trying them out.
+
+This [paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.140.7406&rep=rep1&type=pdf) is also an interesting read a good source for HDMR. It covers the cut-HDMR and RS-HDMR methods concepts and 
+alos provides some applications of where they are used.
