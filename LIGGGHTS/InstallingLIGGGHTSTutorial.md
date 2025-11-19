@@ -8,8 +8,7 @@ permalink: /InstallingPICI-LIGGGHTS/
 # Installing PICI-LIGGGHTS
 {: .fs-9 }
 
-A step-by-step guide with video, instructions and commands for installing _PICI-LIGGGHTS_ with high level Python interface _CoExSiST_ on Ubuntu 20.04.
-**Note**: This doesn't work on Ubuntu 22.04 so make sure to use **Ubuntu 20.04**. 
+A step-by-step guide with video, instructions and commands for installing _PICI-LIGGGHTS_ with high level Python interface _CoExSiST_ on Ubuntu.
 If you don't have a computer running Ubuntu I would recommend using a VM software such as VirtualBox to set up an Ubuntu VM.
 
 <p align="center"><iframe width="640" height="360" src="https://www.youtube.com/embed/Js2uuhNozwQ" frameborder="0" allowfullscreen></iframe></p>
